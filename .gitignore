@@ -1,0 +1,7 @@
+# I dati in chiaro non devono mai finire qui
+private/
+*.vcf
+*.pdf
+profile.json
+keys.json
+qr/

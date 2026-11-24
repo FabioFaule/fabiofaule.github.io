@@ -1,0 +1,16 @@
+{
+  "firstName": "Mario",
+  "lastName": "Rossi",
+  "role": "Ruolo professionale",
+  "company": "Azienda",
+  "phone": "+39 333 123 4567",
+  "email": "nome@example.com",
+  "whatsapp": true,
+  "city": "Milano",
+  "links": [
+    { "label": "LinkedIn", "icon": "linkedin", "url": "https://www.linkedin.com/in/esempio" },
+    { "label": "Sito web", "icon": "globe", "url": "https://example.com" }
+  ],
+  "photo": "photo.jpg",
+  "note": "Ci siamo conosciuti all'evento"
+}
